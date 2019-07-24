@@ -1,0 +1,1 @@
+This was a project for my Hardware Organization and Design class I took from umass amherst. It is a program which sorts a name into alphabetical order, and is written in MIPS assembly.
